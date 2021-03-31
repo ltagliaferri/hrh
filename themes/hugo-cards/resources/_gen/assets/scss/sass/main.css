@@ -65,7 +65,7 @@ dfn {
  font-style:italic
 }
 h1 {
- font-size:2em;
+ font-size:1.5em;
  margin:0.67em 0
 }
 mark {
@@ -7001,6 +7001,15 @@ img {
  padding:10px;
  margin-left:15px !important
 }
+
+.navbar-second {
+    font-weight:900;
+    font-size:1.85em;
+    padding:10px;
+    margin-left:15px !important
+     float: right;
+   }
+
 @media screen and (max-width: 600px) {
  .navbar-brand {
   font-size:1.5em
