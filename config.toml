@@ -1,4 +1,4 @@
-baseurl = "http://example.org/"
+baseurl = "https://hrh-owrx2.ondigitalocean.app/"
 languageCode = "en-us"
 title = "HRH"
 theme = "hugo-cards"
