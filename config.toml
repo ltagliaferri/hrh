@@ -1,0 +1,31 @@
+baseurl = "http://example.org/"
+languageCode = "en-us"
+title = "HRH"
+theme = "hugo-cards"
+themesDir = "../.."
+paginate = 60
+
+[params]
+  builtBy = "lisa"
+  defaultImage = "hollies-hub-for-good.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = "http://twitter.com/lisaironcutter"
+  github = "http://github.com/ltagliaferri"
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  custom_css = ["css/custom.css"]
+
+  [params.copyright]
+     name = "<3 lisa"
+     link = "http://twitter.com/lisaironcutter"
+
