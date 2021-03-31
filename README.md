@@ -23,6 +23,6 @@ Learn more about Hollie's work and legacy:
 
 [View the web archive](https://hrh-owrx2.ondigitalocean.app/).
 
-Theme built off of [Hugo Themes](https://github.com/bul-ikana/hugo-cards).
+Theme built off of [Hugo Cards](https://github.com/bul-ikana/hugo-cards).
 
 _This project was built to archive public testimonies of Hollie Haggans. To add additional memorials or links, please open a [pull request](https://github.com/ltagliaferri/hrh/pulls) or get in contact with [Lisa](https://twitter.com/lisaironcutter)._
