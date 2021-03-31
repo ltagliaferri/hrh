@@ -23,6 +23,8 @@ Learn more about Hollie's work and legacy:
 * [The Spin Up](https://www.digitalocean.com/the-spin-up/)
 * [Hollie's Hub for Good](https://www.digitalocean.com/community/pages/hollies-hub-for-good)
 
-_This project was built to archive public testimonies of Hollie Haggans. To add additional memorials or links, please open a pull request or get in contact with [Lisa](https://twitter.com/lisaironcutter)._
+***
 
-Deployed on DigitalOcean's App Platform.
+This project was built to archive public testimonies of Hollie Haggans. To add additional memorials or links, please open a pull request or get in contact with [Lisa](https://twitter.com/lisaironcutter).
+
+_Deployed on DigitalOcean's App Platform._
