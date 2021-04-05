@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Hollie Rae Haggans](../../images/hollie-haggans.jpg)
 
-Hollie Haggans was a master of community work. Envisioning a more inclusive global tech community, Hollie was peerless in building a robust and diverse network with her unique skillset of tenacity, acumen, and emotional intelligence. 
+Hollie Haggans was a master of community work. Envisioning a more inclusive global tech community, Hollie was peerless in building a robust and diverse network that empowered all around her. 
 
 Hollie was deeply connected throughout tech, from startups to VCs to nonprofits to mega international companies. She had extraordinary insight, always knowing the right person to call in when something needed to be done. More than anything, Hollie made everyone feel like they truly belonged.
 
