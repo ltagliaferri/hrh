@@ -9,7 +9,7 @@ I met Hollie Haggans five years ago when I joined the team at DigitalOcean, a cl
 
 ![Group Dinner in Chicago](DO-love-crop.jpg)
 
-I feel very fortunate to have been able to work closely with Hollie on the projects that meant the most to me the past few years. The highlight for me while working at DigitalOcean was [the Spin Up](https://www.digitalocean.com/the-spin-up/), which was a program to help Black students get into tech. Hollie led this work, connecting with [a16z’s Cultural Leadership Fund](https://a16z.com/cultural-leadership-fund/) nonprofits that could benefit from open source education and cloud infrastructure, and delivering desperately needed inspiration to the next generation of technologists. Hollie and I also collaborated throughout the years on Geekettes](https://www.geekettes.io/) programming, an organization she co-founded to help more women get into tech. 
+I feel very fortunate to have been able to work closely with Hollie on the projects that meant the most to me the past few years. The highlight for me while working at DigitalOcean was [the Spin Up](https://www.digitalocean.com/the-spin-up/), which was a program to help Black students get into tech. Hollie led this work, connecting with [a16z’s Cultural Leadership Fund](https://a16z.com/cultural-leadership-fund/) nonprofits that could benefit from open source education and cloud infrastructure, and delivering desperately needed inspiration to the next generation of technologists. Hollie and I also collaborated throughout the years on [Geekettes](https://www.geekettes.io/) programming, an organization she co-founded to help more women get into tech. 
 
 ![Hollie and Daniel for the Spin Up](spin-up-daniel.png)
 
